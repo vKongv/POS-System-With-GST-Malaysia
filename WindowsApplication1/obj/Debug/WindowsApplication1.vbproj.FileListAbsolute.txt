@@ -1,0 +1,31 @@
+c:\users\kong\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\kong\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\kong\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\kong\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\kong\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\kong\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\kong\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\kong\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\kong\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\kong\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.formTransactions.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.formTSales.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.formSChecking.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.formARestock.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.formGReport.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.formEGST.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.formLogin.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.newproducttype.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\RdlCompile.cache
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\RdlCompile.compiled
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.showSalesReport.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.formSCheckingUser.resources

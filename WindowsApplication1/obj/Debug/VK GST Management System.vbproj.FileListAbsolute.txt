@@ -1,0 +1,31 @@
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\bin\Debug\VKGSTManagementSystem.exe.config
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\bin\Debug\VKGSTManagementSystem.exe.manifest
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\bin\Debug\VKGSTManagementSystem.application
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\bin\Debug\VKGSTManagementSystem.exe
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\bin\Debug\VKGSTManagementSystem.pdb
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\bin\Debug\VKGSTManagementSystem.xml
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\VKGSTManagementSystem.changepassword.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\VKGSTManagementSystem.formRNewUser.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\VKGSTManagementSystem.formSReportAdmin.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\VKGSTManagementSystem.showGSTReport.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\VKGSTManagementSystem.showSalesReport.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\VKGSTManagementSystem.formLogin.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\VKGSTManagementSystem.formSChecking.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\VKGSTManagementSystem.formSCheckingUser.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\VKGSTManagementSystem.taxInvoice.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\VKGSTManagementSystem.formTransactions.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\VKGSTManagementSystem.formTSales.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\VKGSTManagementSystem.formARestock.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\VKGSTManagementSystem.formGReport.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\VKGSTManagementSystem.formEGST.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\VKGSTManagementSystem.newproducttype.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\VKGSTManagementSystem.Resources.resources
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\VK GST Management System.vbproj.GenerateResource.Cache
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\RdlCompile.cache
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\RdlCompile.compiled
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\VKGSTManagementSystem.exe.manifest
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\VKGSTManagementSystem.application
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\VKGSTManagementSystem.exe
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\VKGSTManagementSystem.xml
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\VKGSTManagementSystem.pdb
+C:\Users\kong\Documents\Degree\SecondYear\Sem3\TCS2411 - Software Eng. Fund\Project\Program\WindowsApplication1\WindowsApplication1\obj\Debug\VK GST Management System.vbprojResolveAssemblyReference.cache

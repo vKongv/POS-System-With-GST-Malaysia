@@ -1,0 +1,320 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VKGSTManagementSystem
+</name>
+</assembly>
+<members>
+<member name="P:VKGSTManagementSystem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.addbtn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.addbtn2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.addItem">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.addItem1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.addItem2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.addstock">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.adminlogo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.adminlogo1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.adminlogo2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.bar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.bar1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.bar2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.bar21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.bar3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.cashier">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.cashier1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.cashier11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.cashier12">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.chosen">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.chosen1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.chosen2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.chosen21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.deleteitem">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.deleteitem1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.direction4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.done">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.done1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.done2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.done3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.done4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.gst">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.logout">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.logout2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.right_arrow9">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.salesreport">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.salesreport1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.salesreport11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.salesreportadmin">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.search">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.stockchecking">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.stockchecking1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.userlogo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.userlogo2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.vklogo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VKGSTManagementSystem.My.Resources.Resources.wallpaper">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:VKGSTManagementSystem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:VKGSTManagementSystem.projectDBDataSet1.SALESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VKGSTManagementSystem.projectDBDataSet1.STOCKDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VKGSTManagementSystem.projectDBDataSet1.SUPPLIERDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VKGSTManagementSystem.projectDBDataSet1.SUPPLY_DETAILDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VKGSTManagementSystem.projectDBDataSet1.TRANSACTIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VKGSTManagementSystem.projectDBDataSet1.SALESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VKGSTManagementSystem.projectDBDataSet1.STOCKRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VKGSTManagementSystem.projectDBDataSet1.SUPPLIERRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VKGSTManagementSystem.projectDBDataSet1.SUPPLY_DETAILRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VKGSTManagementSystem.projectDBDataSet1.TRANSACTIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VKGSTManagementSystem.projectDBDataSet1.SALESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VKGSTManagementSystem.projectDBDataSet1.STOCKRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VKGSTManagementSystem.projectDBDataSet1.SUPPLIERRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VKGSTManagementSystem.projectDBDataSet1.SUPPLY_DETAILRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VKGSTManagementSystem.projectDBDataSet1.TRANSACTIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VKGSTManagementSystem.projectDBDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:VKGSTManagementSystem.projectDBDataSet1TableAdapters.SALESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VKGSTManagementSystem.projectDBDataSet1TableAdapters.STOCKTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VKGSTManagementSystem.projectDBDataSet1TableAdapters.SUPPLIERTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VKGSTManagementSystem.projectDBDataSet1TableAdapters.SUPPLY_DETAILTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VKGSTManagementSystem.projectDBDataSet1TableAdapters.TRANSACTIONTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:VKGSTManagementSystem.projectDBDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(VKGSTManagementSystem.projectDBDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:VKGSTManagementSystem.projectDBDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(VKGSTManagementSystem.projectDBDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:VKGSTManagementSystem.projectDBDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(VKGSTManagementSystem.projectDBDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:VKGSTManagementSystem.projectDBDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:VKGSTManagementSystem.projectDBDataSet1TableAdapters.TableAdapterManager.UpdateAll(VKGSTManagementSystem.projectDBDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:VKGSTManagementSystem.projectDBDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:VKGSTManagementSystem.projectDBDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:VKGSTManagementSystem.projectDBDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A961611A-8917-4783-990A-CE61A14A71E2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>VKGSTManagementSystem.My.MyApplication</StartupObject>
+    <RootNamespace>VKGSTManagementSystem</RootNamespace>
+    <AssemblyName>VKGSTManagementSystem</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\kong\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>VKGSTManagementSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>VKGSTManagementSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>E96C00E3C995D3D77463C8149685375DFCCB8283</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>VK GST Management System_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>vklogo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="changepassword.Designer.vb">
+      <DependentUpon>changepassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="changepassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formRNewUser.Designer.vb">
+      <DependentUpon>formRNewUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formRNewUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="salesreportadmin.Designer.vb">
+      <DependentUpon>salesreportadmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="salesreportadmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="showGSTReport.Designer.vb">
+      <DependentUpon>showGSTReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="showGSTReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="showSalesReport.Designer.vb">
+      <DependentUpon>showSalesReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="showSalesReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.vb">
+      <DependentUpon>login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="projectDBDataSet11.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>projectDBDataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="projectDBDataSet11.vb">
+      <DependentUpon>projectDBDataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="stockchecking.Designer.vb">
+      <DependentUpon>stockchecking.vb</DependentUpon>
+    </Compile>
+    <Compile Include="stockchecking.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stockCheckingUser.Designer.vb">
+      <DependentUpon>stockCheckingUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="stockCheckingUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="taxInvoice.Designer.vb">
+      <DependentUpon>taxInvoice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="taxInvoice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaction.Designer.vb">
+      <DependentUpon>transaction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="todaysales.Designer.vb">
+      <DependentUpon>todaysales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="todaysales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="restock.Designer.vb">
+      <DependentUpon>restock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="restock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gstreport.Designer.vb">
+      <DependentUpon>gstreport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="gstreport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editgst.Designer.vb">
+      <DependentUpon>editgst.vb</DependentUpon>
+    </Compile>
+    <Compile Include="editgst.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newproducttype.Designer.vb">
+      <DependentUpon>newproducttype.vb</DependentUpon>
+    </Compile>
+    <Compile Include="newproducttype.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="changepassword.resx">
+      <DependentUpon>changepassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formRNewUser.resx">
+      <DependentUpon>formRNewUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="salesreportadmin.resx">
+      <DependentUpon>salesreportadmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="showGSTReport.resx">
+      <DependentUpon>showGSTReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="showSalesReport.resx">
+      <DependentUpon>showSalesReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="stockchecking.resx">
+      <DependentUpon>stockchecking.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stockCheckingUser.resx">
+      <DependentUpon>stockCheckingUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="taxInvoice.resx">
+      <DependentUpon>taxInvoice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction.resx">
+      <DependentUpon>transaction.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="todaysales.resx">
+      <DependentUpon>todaysales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="restock.resx">
+      <DependentUpon>restock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gstreport.resx">
+      <DependentUpon>gstreport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editgst.resx">
+      <DependentUpon>editgst.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newproducttype.resx">
+      <DependentUpon>newproducttype.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="VK GST Management System_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="projectDBDataSet11.xsc">
+      <DependentUpon>projectDBDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="projectDBDataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>projectDBDataSet11.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="projectDBDataSet11.xss">
+      <DependentUpon>projectDBDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\adminlogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adminlogo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adminlogo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cashier.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chosen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chosen1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chosen2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\direction4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right arrow9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salesreport.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stockchecking.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\userlogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\userlogo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vklogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallpaper.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chosen21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cashier1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addItem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deleteitem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deleteitem1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\done.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\done2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\done1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\done3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\done4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addItem1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addItem2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bar3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cashier11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cashier12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salesreport1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salesreport11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stockchecking1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bar21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addstock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gst.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salesreportadmin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addbtn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addbtn2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="vklogo.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
